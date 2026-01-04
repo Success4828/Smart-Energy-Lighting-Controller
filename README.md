@@ -19,6 +19,7 @@ Documentation: Detailed schematics and hardware pin-mapping.
 PCB Design: Professional layout and routing files.
 
 4. Engineering Team (Group 10)
+   
 Madu Oluebube(2024/13422)
 Project Lead & System Documentation (Responsible for the final report and GitHub management).
 
